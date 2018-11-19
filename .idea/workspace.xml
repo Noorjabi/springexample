@@ -365,15 +365,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542610433474</updated>
-      <workItem from="1542610442873" duration="14235000" />
+      <workItem from="1542610442873" duration="14808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14235000" />
+    <option name="totallyTimeSpent" value="14808000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="25" width="1315" height="743" extended-state="6" />
+    <frame x="51" y="25" width="1315" height="743" extended-state="7" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -385,7 +385,7 @@
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.27406198" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="7" />
